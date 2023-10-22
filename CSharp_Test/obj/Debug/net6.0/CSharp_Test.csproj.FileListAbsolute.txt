@@ -263,3 +263,4 @@ D:\git-repos\C#_Test\CSharp_Test\bin\Debug\net6.0\runtimes\unix\lib\net6.0\Syste
 D:\git-repos\C#_Test\CSharp_Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 D:\git-repos\C#_Test\CSharp_Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
 D:\git-repos\C#_Test\CSharp_Test\bin\Debug\net6.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
+D:\git-repos\C#_Test\CSharp_Test\bin\Debug\net6.0\efpt.config.json
